@@ -1,4 +1,4 @@
-# File-Music-Sharing-Platform
+# NOTES WALLAH
 Flask-Based File and Music Sharing Platform
 
 Project Description
